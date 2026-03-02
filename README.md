@@ -2,7 +2,7 @@
 
 This repository showcases Python scripts for processing astronomical observation data, performing brightness calculations, and generating visualizations. It demonstrates skills in data preprocessing, computational analysis, and scientific graphing.
 
-IRTF_Data_Analysis:
+IRTF Data Analysis:
 
 - imagesubtract.py # Main code for nightly brightness calculations
 - organize.py # Organizes filenames, object names, airmass, and other observational metadata
